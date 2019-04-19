@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `agm-dev`,
     description: `Personal site to post about development and stuff.`,
+    siteUrl: `https://agm-dev.ninja`,
     author: `Adrián Gonzalo`,
   },
   plugins: [
