@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://agm-dev.ninja/sitemap.xml
